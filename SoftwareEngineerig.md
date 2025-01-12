@@ -20,18 +20,18 @@
         - 폭포수 모델
             - 개발 프로세스가 순차적으로 진행되는 전통적인 모델입니다. 각 단계가 끝난 후에야 다음 단계로 넘어가므로 유연성이 부족함
             
-            ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image.png)
+            ![image.png](./image1.png)
             
         - V-모델
             - 폭포수 모델을 확장한 것으로, 각 개발 단계마다 대응되는 테스트 단계가 존재하여 개발과 테스트가 동시에 진행됨
             
-            ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%201.png)
+            ![image.png](./image2.png)
             
     - 현대적 SDLC 모델
         
-        ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%202.png)
+        ![image.png](./image3.png)
         
-        ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%203.png)
+        ![image.png](./image4.png)
         
         - 애자일(Agile)
             - 빠르고 유연한 개발을 지향하며, 짧은 개발 주기를 통해 고객의 요구사항을 신속히 반영함
@@ -42,11 +42,11 @@
     - DevOps와 CI/CD
         - 개발과 운영을 통합하여 빠른 소프트웨어 배포를 지향하며, 지속적인 통합(CI)과 지속적인 배포(CD)를 통해 소프트웨어의 품질을 유지함
     
-    ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%204.png)
+    ![image.png](./image5.png)
     
 - 요구사항 분석
     
-    ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%205.png)
+    ![image.png](./image6.png)
     
     - 요구 사항의 정의와 중요성
         - 요구사항은 소프트웨어 시스템이 충족해야 할 기능과 성능 요구를 정의함
@@ -57,7 +57,7 @@
     - 요구 사항 수집 기법
         - 인터뷰: 사용자나 관련자와의 인터뷰를 통해 요구사항을 수집
         
-        ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%206.png)
+        ![image.png](./image7.png)
         
         - 설문: 다양한 사람들의 의견을 수집할 수 있는 방법
         - 관찰: 사용자 작업을 직접 관찰하여 요구사항을 도출
@@ -285,9 +285,9 @@
             - 객체 간의 상호작용을 다루는 패턴 (예: 옵저버, 전략)
     - UML(Unified Modeling Language)
         
-        ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%207.png)
+        ![image.png](./image8.png)
         
-        ![image.png](SoftwareEngineerig%20178c7d350c0480afbc9efd857f40fd05/image%208.png)
+        ![image.png](./image9.png)
         
         - 클래스 다이어그램
             - 시스템의 클래스를 시각적으로 표현
