@@ -54,12 +54,12 @@
 **활용:**
 - 소프트웨어 개발 로드맵 작성, 마일스톤 설정
 
-![WBS](ce-picture/WBS.png)
+![WBS](./WBS.png)
 
 
 작업 분해 구조 WBS는 다음 사진과 같음
 
-![gantt chart](ce-picture/gantt-chart.png)
+![gantt chart](./gantt-chart.png)
 
 마일스톤은 흘러드는 모든 단위 작업이 끝나기 전까지 종료된 것으로 생각하지 않는 단위 작업 또는 사건을 뜻함 개발자들은 보통 사진과 같은 gantt chart(간트차트 또는 갠트 차트) 를 사용함 이 외에도 네트워크 차트(PERT/CPM)이 있음
 
@@ -96,7 +96,7 @@
 5. 형상 관리자(CM), 품질 관리자*(QE), 연락 그룹
 
 **프로젝트 팀 구조**
-![project team](ce-picture/project-team.png)
+![project team](./project-team.png)
 
 프로젝트 팀 구조에는 그림과 같이 세가지 구조가 있다
 
