@@ -643,7 +643,7 @@
         - 활용
             - 간결한 함수, 명확한 변수명 사용
         - 예시 코드
-             <details><summary>[C] 가독성 구현</summary>
+             - <details><summary>[C] 가독성 구현</summary>
                 
                 ```c
                 // in C
@@ -667,7 +667,7 @@
                 ```
                 </details>
                 
-             <details><summary>[Python] 가독성 구현</summary>
+             - <details><summary>[Python] 가독성 구현</summary>
                 
                 ```python
                 # in Python
@@ -693,7 +693,7 @@
         - 활용
             - 모듈화, 캡슐화
         - 예시 코드
-             <details><summary>[C] 유지보수성 구현</summary>
+             - <details><summary>[C] 유지보수성 구현</summary>
                 
                 ```c
                 // in C
@@ -719,7 +719,7 @@
                 ```
                 </details>
                 
-             <details><summary>[Python] 유지보수성 구현</summary>
+             - <details><summary>[Python] 유지보수성 구현</summary>
                 
                 ```python
                 # in Python
@@ -753,7 +753,7 @@
     - **활용**
         - 코드 리뷰, 정적 분석 도구 활용
     - 예시 코드
-         <details><summary>[C] 재사용성 구현</summary>
+         - <details><summary>[C] 재사용성 구현</summary>
             
             ```c
             // in C
@@ -780,7 +780,7 @@
             ```
             </details>
             
-         <details><summary>[Python] 재사용성 구현</summary>
+         - <details><summary>[Python] 재사용성 구현</summary>
             
             ```python
             # in Python
