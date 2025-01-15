@@ -307,7 +307,7 @@
         - 객체지향 프로그래밍 (OOP) 설계
     - 예시 코드
         - 모듈화
-            - [C] 모듈화 구현
+            - <details>[C] 모듈화 구현
                 
                 ```c
                 // in C
@@ -330,8 +330,9 @@
                     return 0;
                 }
                 ```
+                </details>
                 
-            - [Pytho] 모듈화 구현
+            - <details>[Python] 모듈화 구현
                 
                 ```python
                 # in Python
@@ -349,9 +350,10 @@
                     print("Sum:", add(3, 5))
                     print("Product:", multiply(3, 5))
                 ```
+                </details>
                 
         - 추상화
-            - [Java] 추상화 구현
+            - <details>[Java] 추상화 구현
                 
                 ```java
                 // in Java
@@ -408,6 +410,7 @@
                 구체적인 객체(Dog 또는 Cat)에 따라 다른 동작을 수행함
                 */
                 ```
+                </details>
                 
             - [C] 추상화 구현
                 
