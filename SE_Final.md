@@ -331,7 +331,7 @@
                 }
                 ```
                 </details>
-                - <details><summary>[Python] 모듈화 구현</summary>
+            - <details><summary>[Python] 모듈화 구현</summary>
                 
                 ```python
                 # in Python
@@ -352,7 +352,7 @@
                 </details>
                 
         - 추상화
-             <details><summary>[Java] 추상화 구현</summary>
+             - <details><summary>[Java] 추상화 구현</summary>
                 
                 ```java
                 // in Java
@@ -411,7 +411,7 @@
                 ```
                 </details>
                 
-             <details><summary>[C] 추상화 구현</summary>
+             - <details><summary>[C] 추상화 구현</summary>
                 
                 ```c
                 // in C
@@ -440,7 +440,7 @@
                 ```
                 </details>
                 
-             <details><summary>[Python] 추상화 구현</summary>
+             - <details><summary>[Python] 추상화 구현</summary>
                 
                 ```python
                 # in Python
@@ -464,7 +464,7 @@
                 </details>
                 
         - 캡슐화
-             <details><summary>[C] 캡슐화 구현</summary>
+             - <details><summary>[C] 캡슐화 구현</summary>
                 
                 ```c
                 // in C
@@ -493,7 +493,7 @@
                 ```
                 </details>
                 
-             <details><summary>[Python] 캡슐화 구현</summary>
+             - <details><summary>[Python] 캡슐화 구현</summary>
                 
                 ```python
                 # in Python
@@ -602,8 +602,6 @@
     ![SE6.png](/SE_Final_image/SE6.png)
     
     > UML(Unified Modeling Language)의 발전과정
-    > 
-
 ---
 
 ### 소프트웨어 구현
