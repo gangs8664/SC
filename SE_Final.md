@@ -307,7 +307,7 @@
         - 객체지향 프로그래밍 (OOP) 설계
     - 예시 코드
         - 모듈화
-            - <details>[C] 모듈화 구현
+            - <details><summary>[C] 모듈화 구현</summary>
                 
                 ```c
                 // in C
@@ -332,7 +332,7 @@
                 ```
                 </details>
                 
-            - <details>[Python] 모듈화 구현
+            - <details><summary>[Python] 모듈화 구현</summary>
                 
                 ```python
                 # in Python
@@ -353,7 +353,7 @@
                 </details>
                 
         - 추상화
-            - <details>[Java] 추상화 구현
+            - <details><summary>[Java] 추상화 구현</summary>
                 
                 ```java
                 // in Java
@@ -412,7 +412,7 @@
                 ```
                 </details>
                 
-            - [C] 추상화 구현
+            - <details><summary>[C] 추상화 구현</summary>
                 
                 ```c
                 // in C
@@ -439,8 +439,9 @@
                 }
                 
                 ```
+                </details>
                 
-            - [Python] 추상화 구현
+            - <details><summary>[Python] 추상화 구현</summary>
                 
                 ```python
                 # in Python
@@ -461,9 +462,10 @@
                     print("Product:", calculate(multiply, 3, 5))
                 
                 ```
+                </details>
                 
         - 캡슐화
-            - [C]  캡슐화 구현
+            - <details><summary>[C] 캡슐화 구현</summary>
                 
                 ```c
                 // in C
@@ -490,8 +492,9 @@
                     return 0;
                 }
                 ```
+                </details>
                 
-            - [Python] 캡슐화 구현
+            - <details><summary>[Python] 캡슐화 구현</summary>
                 
                 ```python
                 # in Python
@@ -513,6 +516,7 @@
                     print("Value:", obj.get_value())
                 
                 ```
+                </details>
                 
 
 ---
