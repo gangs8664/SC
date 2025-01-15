@@ -307,7 +307,7 @@
         - 객체지향 프로그래밍 (OOP) 설계
     - 예시 코드
         - 모듈화
-        <details><summary>[C] 모듈화 구현</summary>
+            - <details><summary>[C] 모듈화 구현</summary>
                 
                 ```c
                 // in C
@@ -331,8 +331,7 @@
                 }
                 ```
                 </details>
-      
-      <details><summary>[Python] 모듈화 구현</summary>
+                - <details><summary>[Python] 모듈화 구현</summary>
                 
                 ```python
                 # in Python
