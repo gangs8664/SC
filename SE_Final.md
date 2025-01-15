@@ -646,7 +646,7 @@
         - 활용
             - 간결한 함수, 명확한 변수명 사용
         - 예시 코드
-            - [C] 가독성 구현
+            - <details><summary>[C] 가독성 구현</summary>
                 
                 ```c
                 // in C
@@ -668,8 +668,9 @@
                 }
                 
                 ```
+                </details>
                 
-            - [Python] 가독성 구현
+            - <details><summary>[Python] 가독성 구현</summary>
                 
                 ```python
                 # in Python
@@ -687,6 +688,7 @@
                     print(f"The sum of {a} and {b} is {sum_result}")
                 
                 ```
+                </details>
                 
     - **유지보수성**
         - 정의
@@ -694,7 +696,7 @@
         - 활용
             - 모듈화, 캡슐화
         - 예시 코드
-            - [C] 유지보수성 구현
+            - <details><summary>[C] 유지보수성 구현</summary>
                 
                 ```c
                 // in C
@@ -718,8 +720,9 @@
                     return 0;
                 }
                 ```
+                </details>
                 
-            - [Python] 유지보수성 구현
+            - <details><summary>[Python] 유지보수성 구현</summary>
                 
                 ```python
                 # in Python
@@ -737,6 +740,7 @@
                     print("Sum:", add(x, y))
                     print("Product:", multiply(x, y))
                 ```
+                </details>
                 
     - **재사용성**
         - 정의
@@ -752,7 +756,7 @@
     - **활용**
         - 코드 리뷰, 정적 분석 도구 활용
     - 예시 코드
-        - [C] 재사용성 구현
+        - <details><summary>[C] 재사용성 구현</summary>
             
             ```c
             // in C
@@ -777,8 +781,9 @@
             }
             
             ```
+            </details>
             
-        - [Python] 재사용성 구현
+        - <details><summary>[Python] 재사용성 구현</summary>
             
             ```python
             # in Python
@@ -801,6 +806,7 @@
                 print("Multiplication:", calculate(10, 5, "*"))
             
             ```
+            </details>
             
 
 ---
